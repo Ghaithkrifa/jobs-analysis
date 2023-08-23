@@ -1,0 +1,22 @@
+id_sous_categorie,sous_categorie,id_categorie
+5,Développement Web,0
+3,Testeur QA,0
+2,DevOps,0
+1,Développement mobile,0
+0,Data,0
+11,Pharmacie,1
+10,Infirmerie,1
+6,Medecine,1
+4,Dentaire,1
+21,Mécanicien,2
+9,Plomberie,2
+8,Ouvrier du bâtiment,2
+7,Électricien,2
+19,Gestionnaire financier,3
+18,Fiscalité,3
+17,Finance de marché,3
+16,Contrôle de finance,3
+15,Manager financier,3
+14,Gestion de risque,3
+13,Analyste financier,3
+12,conseiller bancaire,3
